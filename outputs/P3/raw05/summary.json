@@ -1,0 +1,96 @@
+{
+  "context": {
+    "period": "P3",
+    "label": "2018-2019 Chiến tranh thương mại",
+    "data": {
+      "start": "2018-01-03",
+      "end": "2019-12-31",
+      "trading_days": 497,
+      "price_rows": 498,
+      "tickers_with_any_price": 298,
+      "tickers_after_coverage_filter": 271,
+      "tickers_dropped_illiquid": 35,
+      "tickers_final": 236,
+      "share_returns_winsorized": 0.0014067455580943286
+    },
+    "stationarity": {
+      "adf_share_stationary": 1.0,
+      "adf_max_pvalue": 0.03775500411663398
+    },
+    "lag": 1,
+    "lag_selection_orders": {
+      "aic": 0,
+      "bic": 0,
+      "hqic": 0,
+      "fpe": 0
+    },
+    "dof_unrestricted": 493,
+    "alpha": 0.05,
+    "fdr_method": "fdr_bh",
+    "validation": {
+      "pairs_checked": 25,
+      "max_abs_p_diff": 3.8624659026709196e-13,
+      "mean_abs_p_diff": 5.053818474820559e-14
+    },
+    "pi0_storey": 0.9324558240173098,
+    "expected_false_raw_edges": 2773.0,
+    "observed_raw_edges": 4097,
+    "observed_fdr_edges": 16
+  },
+  "rule": "raw05",
+  "network": {
+    "nodes": 236,
+    "edges": 4097,
+    "density": 0.07387306166606564,
+    "avg_degree_in_out": 17.360169491525422,
+    "max_in_degree": 62,
+    "max_out_degree": 82,
+    "isolated_nodes": 0,
+    "reciprocity": 0.09372711740297779,
+    "avg_clustering": 0.09106773260844621,
+    "transitivity_undirected": 0.1754853100059248,
+    "weak_components": 1,
+    "giant_wcc_share": 1.0,
+    "strong_components": 1,
+    "giant_scc_share": 1.0,
+    "avg_path_length_giant_scc": 2.262585647313379,
+    "diameter_giant_scc": 4,
+    "assortativity_out_in": -0.021808872315312824,
+    "communities": 7,
+    "modularity": 0.156711155778713,
+    "out_centralization": 0.276233589859665,
+    "in_centralization": 0.19076505205975555,
+    "corr_in_out_degree_spearman": 0.12143345172529041,
+    "roles": {
+      "mixed": 210,
+      "follower": 14,
+      "leader": 12
+    },
+    "trait_correlations": {
+      "out_degree_vs_volatility_ann": {
+        "rho": -0.13182125500604697,
+        "p": 0.0430565088615341
+      },
+      "in_degree_vs_volatility_ann": {
+        "rho": -0.30200230246649057,
+        "p": 2.2941528111620476e-06
+      },
+      "out_degree_vs_beta_to_ew_market": {
+        "rho": 0.38736354853579485,
+        "p": 7.209032210523608e-10
+      },
+      "in_degree_vs_beta_to_ew_market": {
+        "rho": 0.05268553495272231,
+        "p": 0.4204545788066219
+      },
+      "out_degree_vs_zero_return_share": {
+        "rho": -0.31471710684065796,
+        "p": 8.011715823943908e-07
+      },
+      "in_degree_vs_zero_return_share": {
+        "rho": -0.08015342231954801,
+        "p": 0.21990636614693362
+      }
+    }
+  }
+}

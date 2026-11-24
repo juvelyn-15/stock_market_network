@@ -1,0 +1,97 @@
+{
+  "context": {
+    "period": "P5",
+    "label": "2022-2023 Thị trường gấu, trái phiếu",
+    "data": {
+      "start": "2022-01-05",
+      "end": "2023-12-29",
+      "trading_days": 497,
+      "price_rows": 498,
+      "tickers_with_any_price": 315,
+      "tickers_after_coverage_filter": 312,
+      "tickers_dropped_illiquid": 12,
+      "tickers_final": 300,
+      "share_returns_winsorized": 0.0004158283031522468
+    },
+    "stationarity": {
+      "adf_share_stationary": 1.0,
+      "adf_max_pvalue": 0.0002681444973037032
+    },
+    "lag": 1,
+    "lag_selection_orders": {
+      "aic": 0,
+      "bic": 0,
+      "hqic": 0,
+      "fpe": 0
+    },
+    "dof_unrestricted": 493,
+    "alpha": 0.05,
+    "fdr_method": "fdr_bh",
+    "validation": {
+      "pairs_checked": 25,
+      "max_abs_p_diff": 1.3882228699912957e-12,
+      "mean_abs_p_diff": 6.77031930409848e-14
+    },
+    "pi0_storey": 0.6235897435897436,
+    "expected_false_raw_edges": 4485.0,
+    "observed_raw_edges": 21096,
+    "observed_fdr_edges": 6575
+  },
+  "rule": "fdr05",
+  "network": {
+    "nodes": 300,
+    "edges": 6575,
+    "density": 0.07329988851727982,
+    "avg_degree_in_out": 21.916666666666668,
+    "max_in_degree": 203,
+    "max_out_degree": 157,
+    "isolated_nodes": 1,
+    "reciprocity": 0.014296577946768061,
+    "avg_clustering": 0.1560020626745456,
+    "transitivity_undirected": 0.28925645606047784,
+    "weak_components": 3,
+    "giant_wcc_share": 0.99,
+    "strong_components": 43,
+    "giant_scc_share": 0.8533333333333334,
+    "avg_path_length_giant_scc": 3.0401194852941176,
+    "diameter_giant_scc": 8,
+    "assortativity_out_in": -0.22747839296625716,
+    "communities": 5,
+    "modularity": 0.15143029427152144,
+    "out_centralization": 0.4532947058757732,
+    "in_centralization": 0.6076553953535195,
+    "corr_in_out_degree_spearman": -0.15849278730799107,
+    "roles": {
+      "leader": 117,
+      "mixed": 98,
+      "follower": 84,
+      "isolated": 1
+    },
+    "trait_correlations": {
+      "out_degree_vs_volatility_ann": {
+        "rho": 0.5674836548137251,
+        "p": 5.7166838689496914e-27
+      },
+      "in_degree_vs_volatility_ann": {
+        "rho": 0.009177226000418287,
+        "p": 0.874225161092698
+      },
+      "out_degree_vs_beta_to_ew_market": {
+        "rho": 0.7586832490805919,
+        "p": 2.0981450946193305e-57
+      },
+      "in_degree_vs_beta_to_ew_market": {
+        "rho": 0.026831095819007927,
+        "p": 0.6434565006274208
+      },
+      "out_degree_vs_zero_return_share": {
+        "rho": -0.5471020989133738,
+        "p": 8.043532955256639e-25
+      },
+      "in_degree_vs_zero_return_share": {
+        "rho": 0.23761762314040305,
+        "p": 3.2078612412440435e-05
+      }
+    }
+  }
+}

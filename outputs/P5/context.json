@@ -1,0 +1,38 @@
+{
+  "period": "P5",
+  "label": "2022-2023 Thị trường gấu, trái phiếu",
+  "data": {
+    "start": "2022-01-05",
+    "end": "2023-12-29",
+    "trading_days": 497,
+    "price_rows": 498,
+    "tickers_with_any_price": 315,
+    "tickers_after_coverage_filter": 312,
+    "tickers_dropped_illiquid": 12,
+    "tickers_final": 300,
+    "share_returns_winsorized": 0.0004158283031522468
+  },
+  "stationarity": {
+    "adf_share_stationary": 1.0,
+    "adf_max_pvalue": 0.0002681444973037032
+  },
+  "lag": 1,
+  "lag_selection_orders": {
+    "aic": 0,
+    "bic": 0,
+    "hqic": 0,
+    "fpe": 0
+  },
+  "dof_unrestricted": 493,
+  "alpha": 0.05,
+  "fdr_method": "fdr_bh",
+  "validation": {
+    "pairs_checked": 25,
+    "max_abs_p_diff": 1.3882228699912957e-12,
+    "mean_abs_p_diff": 6.77031930409848e-14
+  },
+  "pi0_storey": 0.6235897435897436,
+  "expected_false_raw_edges": 4485.0,
+  "observed_raw_edges": 21096,
+  "observed_fdr_edges": 6575
+}

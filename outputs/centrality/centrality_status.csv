@@ -1,0 +1,13 @@
+rule,period,nodes_total,nodes_giant,giant_share,status,z_corr_out_degree,z_corr_in_degree,core_share_high_conf_sector
+raw05,P1,104,104,1,ok,-0.57882,-0.645,0.9
+raw05,P2,165,165,1,ok,-0.68799,-0.62804,0.9
+raw05,P3,236,236,1,ok,-0.69972,-0.68292,0.85
+raw05,P4,279,279,1,ok,-0.61199,-0.67224,0.9
+raw05,P5,300,300,1,ok,-0.52622,-0.58363,0.95
+raw05,P6,279,279,1,ok,-0.64764,-0.59621,0.9
+fdr05,P1,104,100,0.96154,ok,-0.59053,-0.53055,0.9
+fdr05,P2,165,4,0.024242,bỏ qua: thành phần liên thông lớn nhất quá nhỏ,,,
+fdr05,P3,236,4,0.016949,bỏ qua: thành phần liên thông lớn nhất quá nhỏ,,,
+fdr05,P4,279,24,0.086022,bỏ qua: thành phần liên thông lớn nhất quá nhỏ,,,
+fdr05,P5,300,297,0.99,ok,-0.56415,-0.48912,0.95
+fdr05,P6,279,129,0.46237,ok,-0.37104,-0.30814,0.9

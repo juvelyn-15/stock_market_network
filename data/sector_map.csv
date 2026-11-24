@@ -1,0 +1,404 @@
+ticker,sector,confidence
+AAA,"Hóa chất, Nhựa & Phân bón",cao
+AAM,Thủy sản,cao
+AAT,"Dệt may, Gỗ & Gia dụng",cao
+ABR,Đa ngành & Khác,thấp
+ABS,Nông nghiệp & Cao su,thấp
+ABT,Thủy sản,cao
+ACB,Ngân hàng,cao
+ACC,Xây dựng & Hạ tầng,thấp
+ACG,"Dệt may, Gỗ & Gia dụng",cao
+ACL,Thủy sản,cao
+ADG,Đa ngành & Khác,thấp
+ADP,"Hóa chất, Nhựa & Phân bón",thấp
+ADS,"Dệt may, Gỗ & Gia dụng",cao
+AGG,Bất động sản,cao
+AGM,Nông nghiệp & Cao su,cao
+AGR,Chứng khoán & Tài chính,cao
+ANV,Thủy sản,cao
+APC,"Hóa chất, Nhựa & Phân bón",thấp
+APG,Chứng khoán & Tài chính,cao
+APH,"Hóa chất, Nhựa & Phân bón",cao
+ASG,Vận tải & Logistics,cao
+ASM,Đa ngành & Khác,cao
+ASP,Dầu khí & Khí đốt,cao
+AST,Vận tải & Logistics,cao
+BAF,Nông nghiệp & Cao su,cao
+BBC,Thực phẩm & Đồ uống,cao
+BCE,Xây dựng & Hạ tầng,cao
+BCG,Đa ngành & Khác,cao
+BCM,Bất động sản,cao
+BFC,"Hóa chất, Nhựa & Phân bón",cao
+BHN,Thực phẩm & Đồ uống,cao
+BIC,Bảo hiểm,cao
+BID,Ngân hàng,cao
+BKG,Bất động sản,thấp
+BMC,Vật liệu xây dựng,thấp
+BMI,Bảo hiểm,cao
+BMP,Vật liệu xây dựng,cao
+BRC,Công nghiệp chế tạo,thấp
+BSI,Chứng khoán & Tài chính,cao
+BSR,Dầu khí & Khí đốt,cao
+BTP,"Điện, nước & Tiện ích",cao
+BTT,Bán lẻ & Phân phối,cao
+BVH,Bảo hiểm,cao
+BWE,"Điện, nước & Tiện ích",cao
+C32,Xây dựng & Hạ tầng,cao
+C47,Xây dựng & Hạ tầng,cao
+CCI,Bất động sản,cao
+CCL,Bất động sản,thấp
+CDC,Xây dựng & Hạ tầng,cao
+CHP,"Điện, nước & Tiện ích",cao
+CIG,Xây dựng & Hạ tầng,cao
+CII,Xây dựng & Hạ tầng,cao
+CKG,Bất động sản,thấp
+CLC,Thực phẩm & Đồ uống,cao
+CLL,Vận tải & Logistics,cao
+CLW,"Điện, nước & Tiện ích",cao
+CMG,Công nghệ & Viễn thông,cao
+CMV,"Dệt may, Gỗ & Gia dụng",thấp
+CMX,Thủy sản,cao
+CNG,Dầu khí & Khí đốt,cao
+COM,Dầu khí & Khí đốt,cao
+CRC,Bất động sản,cao
+CRE,Bất động sản,cao
+CSM,Công nghiệp chế tạo,cao
+CSV,"Hóa chất, Nhựa & Phân bón",cao
+CTD,Xây dựng & Hạ tầng,cao
+CTF,Bán lẻ & Phân phối,cao
+CTG,Ngân hàng,cao
+CTI,Bất động sản,thấp
+CTR,Xây dựng & Hạ tầng,cao
+CTS,Chứng khoán & Tài chính,cao
+CVT,Vật liệu xây dựng,cao
+D2D,Bất động sản,cao
+DAH,Du lịch & Dịch vụ,cao
+DAT,Du lịch & Dịch vụ,thấp
+DBC,Nông nghiệp & Cao su,cao
+DBD,Y tế & Dược,cao
+DBT,Y tế & Dược,cao
+DC4,Xây dựng & Hạ tầng,cao
+DCL,Y tế & Dược,cao
+DCM,"Hóa chất, Nhựa & Phân bón",cao
+DGC,"Hóa chất, Nhựa & Phân bón",cao
+DGW,Công nghệ & Viễn thông,cao
+DHA,Vật liệu xây dựng,cao
+DHC,"Hóa chất, Nhựa & Phân bón",cao
+DHG,Y tế & Dược,cao
+DHM,Thép & Khoáng sản,thấp
+DIG,Bất động sản,cao
+DLG,Đa ngành & Khác,cao
+DMC,Y tế & Dược,cao
+DPG,Xây dựng & Hạ tầng,cao
+DPM,"Hóa chất, Nhựa & Phân bón",cao
+DPR,Nông nghiệp & Cao su,cao
+DQC,Công nghiệp chế tạo,cao
+DRC,Công nghiệp chế tạo,cao
+DRH,Bất động sản,cao
+DRL,"Điện, nước & Tiện ích",thấp
+DSC,Du lịch & Dịch vụ,thấp
+DSE,Chứng khoán & Tài chính,cao
+DSN,Du lịch & Dịch vụ,cao
+DTA,Xây dựng & Hạ tầng,cao
+DTL,Thép & Khoáng sản,cao
+DTT,Công nghiệp chế tạo,thấp
+DVP,Vận tải & Logistics,cao
+DXG,Bất động sản,cao
+DXS,Bất động sản,cao
+DXV,Vật liệu xây dựng,cao
+EIB,Ngân hàng,cao
+ELC,Công nghệ & Viễn thông,cao
+EVE,"Dệt may, Gỗ & Gia dụng",cao
+EVF,Chứng khoán & Tài chính,cao
+EVG,Bất động sản,thấp
+FCM,Vật liệu xây dựng,thấp
+FCN,Xây dựng & Hạ tầng,cao
+FDC,Bất động sản,thấp
+FIR,Bất động sản,cao
+FIT,Đa ngành & Khác,cao
+FMC,Thủy sản,cao
+FPT,Công nghệ & Viễn thông,cao
+FRT,Bán lẻ & Phân phối,cao
+FTS,Chứng khoán & Tài chính,cao
+GAS,Dầu khí & Khí đốt,cao
+GDT,"Dệt may, Gỗ & Gia dụng",cao
+GEE,Công nghiệp chế tạo,cao
+GEG,"Điện, nước & Tiện ích",cao
+GEX,Đa ngành & Khác,cao
+GIL,"Dệt may, Gỗ & Gia dụng",cao
+GMD,Vận tải & Logistics,cao
+GMH,Vật liệu xây dựng,thấp
+GSP,Vận tải & Logistics,cao
+GTA,"Dệt may, Gỗ & Gia dụng",cao
+GVR,Nông nghiệp & Cao su,cao
+HAG,Nông nghiệp & Cao su,cao
+HAH,Vận tải & Logistics,cao
+HAP,"Hóa chất, Nhựa & Phân bón",cao
+HAR,Bất động sản,cao
+HAS,Xây dựng & Hạ tầng,thấp
+HAX,Bán lẻ & Phân phối,cao
+HBC,Xây dựng & Hạ tầng,cao
+HCD,Vật liệu xây dựng,thấp
+HCM,Chứng khoán & Tài chính,cao
+HDB,Ngân hàng,cao
+HDC,Bất động sản,cao
+HDG,"Điện, nước & Tiện ích",thấp
+HHP,"Hóa chất, Nhựa & Phân bón",thấp
+HHS,Đa ngành & Khác,thấp
+HHV,Xây dựng & Hạ tầng,cao
+HID,Đa ngành & Khác,thấp
+HII,"Hóa chất, Nhựa & Phân bón",cao
+HMC,Thép & Khoáng sản,cao
+HNA,"Điện, nước & Tiện ích",thấp
+HNG,Nông nghiệp & Cao su,cao
+HPG,Thép & Khoáng sản,cao
+HPX,Bất động sản,cao
+HQC,Bất động sản,cao
+HRC,Nông nghiệp & Cao su,cao
+HSG,Thép & Khoáng sản,cao
+HSL,Nông nghiệp & Cao su,thấp
+HT1,Vật liệu xây dựng,cao
+HTG,"Dệt may, Gỗ & Gia dụng",cao
+HTI,Bất động sản,cao
+HTL,Bán lẻ & Phân phối,thấp
+HTN,Bất động sản,cao
+HTV,Vận tải & Logistics,thấp
+HU1,Xây dựng & Hạ tầng,cao
+HUB,Xây dựng & Hạ tầng,cao
+HVH,Công nghệ & Viễn thông,cao
+HVN,Vận tải & Logistics,cao
+HVX,Vật liệu xây dựng,cao
+IBC,Đa ngành & Khác,thấp
+ICT,Công nghệ & Viễn thông,cao
+IDI,Thủy sản,cao
+IJC,Bất động sản,cao
+ILB,Vận tải & Logistics,cao
+IMP,Y tế & Dược,cao
+ITC,Bất động sản,cao
+ITD,Công nghệ & Viễn thông,cao
+JVC,Y tế & Dược,cao
+KBC,Bất động sản,cao
+KDC,Thực phẩm & Đồ uống,cao
+KDH,Bất động sản,cao
+KHG,Bất động sản,cao
+KHP,"Điện, nước & Tiện ích",cao
+KMR,"Dệt may, Gỗ & Gia dụng",cao
+KOS,Bất động sản,cao
+KPF,Đa ngành & Khác,thấp
+KSB,Vật liệu xây dựng,cao
+L10,Xây dựng & Hạ tầng,cao
+LAF,Thủy sản,cao
+LBM,Vật liệu xây dựng,cao
+LCG,Xây dựng & Hạ tầng,cao
+LDG,Bất động sản,cao
+LEC,Bất động sản,thấp
+LGC,Xây dựng & Hạ tầng,thấp
+LGL,Bất động sản,cao
+LHG,Bất động sản,cao
+LIX,"Hóa chất, Nhựa & Phân bón",cao
+LM8,Xây dựng & Hạ tầng,thấp
+LPB,Ngân hàng,cao
+LSS,Thực phẩm & Đồ uống,cao
+MBB,Ngân hàng,cao
+MCG,Bất động sản,thấp
+MCM,Thực phẩm & Đồ uống,cao
+MCP,"Hóa chất, Nhựa & Phân bón",cao
+MDG,Xây dựng & Hạ tầng,cao
+MHC,Bất động sản,thấp
+MIG,Bảo hiểm,cao
+MSB,Ngân hàng,cao
+MSH,"Dệt may, Gỗ & Gia dụng",cao
+MSN,Thực phẩm & Đồ uống,cao
+MWG,Bán lẻ & Phân phối,cao
+NAB,Ngân hàng,cao
+NAF,Nông nghiệp & Cao su,cao
+NAV,Công nghiệp chế tạo,thấp
+NBB,Bất động sản,cao
+NCT,Vận tải & Logistics,cao
+NHA,Bất động sản,cao
+NHH,"Hóa chất, Nhựa & Phân bón",cao
+NHT,"Điện, nước & Tiện ích",thấp
+NKG,Thép & Khoáng sản,cao
+NLG,Bất động sản,cao
+NNC,Vật liệu xây dựng,cao
+NO1,Bất động sản,thấp
+NSC,Nông nghiệp & Cao su,cao
+NT2,"Điện, nước & Tiện ích",cao
+NTL,Bất động sản,cao
+NVL,Bất động sản,cao
+NVT,Du lịch & Dịch vụ,cao
+OCB,Ngân hàng,cao
+OGC,Bất động sản,thấp
+OPC,Y tế & Dược,cao
+ORS,Chứng khoán & Tài chính,cao
+PAC,Công nghiệp chế tạo,cao
+PAN,Thực phẩm & Đồ uống,cao
+PC1,"Điện, nước & Tiện ích",cao
+PDN,Vận tải & Logistics,cao
+PDR,Bất động sản,cao
+PET,Bán lẻ & Phân phối,cao
+PGC,Dầu khí & Khí đốt,cao
+PGD,Dầu khí & Khí đốt,cao
+PGI,Bảo hiểm,cao
+PGV,"Điện, nước & Tiện ích",cao
+PHC,Xây dựng & Hạ tầng,cao
+PHR,Nông nghiệp & Cao su,cao
+PIT,Bán lẻ & Phân phối,thấp
+PJT,Vận tải & Logistics,cao
+PLP,"Hóa chất, Nhựa & Phân bón",cao
+PLX,Dầu khí & Khí đốt,cao
+PMG,"Hóa chất, Nhựa & Phân bón",thấp
+PNC,Du lịch & Dịch vụ,cao
+PNJ,Bán lẻ & Phân phối,cao
+POM,Thép & Khoáng sản,cao
+POW,"Điện, nước & Tiện ích",cao
+PPC,"Điện, nước & Tiện ích",cao
+PSH,Dầu khí & Khí đốt,cao
+PTB,Vật liệu xây dựng,cao
+PTC,Xây dựng & Hạ tầng,thấp
+PTL,Bất động sản,thấp
+PVD,Dầu khí & Khí đốt,cao
+PVP,Vận tải & Logistics,cao
+PVT,Vận tải & Logistics,cao
+QBS,Bất động sản,thấp
+QCG,Bất động sản,cao
+QNP,Vận tải & Logistics,cao
+RAL,Công nghiệp chế tạo,cao
+RDP,"Hóa chất, Nhựa & Phân bón",cao
+REE,"Điện, nước & Tiện ích",cao
+RYG,Đa ngành & Khác,thấp
+S4A,"Điện, nước & Tiện ích",cao
+SAB,Thực phẩm & Đồ uống,cao
+SAM,Đa ngành & Khác,cao
+SAV,Công nghiệp chế tạo,thấp
+SBA,"Điện, nước & Tiện ích",cao
+SBG,"Hóa chất, Nhựa & Phân bón",thấp
+SBT,Thực phẩm & Đồ uống,cao
+SBV,"Hóa chất, Nhựa & Phân bón",cao
+SC5,Xây dựng & Hạ tầng,cao
+SCR,Bất động sản,cao
+SCS,Vận tải & Logistics,cao
+SFC,Dầu khí & Khí đốt,cao
+SFG,"Hóa chất, Nhựa & Phân bón",cao
+SFI,Vận tải & Logistics,cao
+SGN,Vận tải & Logistics,cao
+SGR,Bất động sản,cao
+SGT,Công nghệ & Viễn thông,cao
+SHA,Công nghiệp chế tạo,thấp
+SHB,Ngân hàng,cao
+SHI,Vật liệu xây dựng,thấp
+SHP,"Điện, nước & Tiện ích",cao
+SIP,Bất động sản,cao
+SJD,"Điện, nước & Tiện ích",cao
+SJS,Bất động sản,cao
+SKG,Vận tải & Logistics,cao
+SMA,Công nghiệp chế tạo,thấp
+SMB,Thực phẩm & Đồ uống,cao
+SMC,Thép & Khoáng sản,cao
+SPM,Y tế & Dược,thấp
+SRC,Nông nghiệp & Cao su,cao
+SRF,Công nghiệp chế tạo,cao
+SSB,Ngân hàng,cao
+SSC,Nông nghiệp & Cao su,cao
+SSI,Chứng khoán & Tài chính,cao
+ST8,Công nghệ & Viễn thông,thấp
+STB,Ngân hàng,cao
+STG,Vận tải & Logistics,cao
+STK,"Dệt may, Gỗ & Gia dụng",cao
+SVC,Bán lẻ & Phân phối,cao
+SVD,Đa ngành & Khác,thấp
+SVI,"Hóa chất, Nhựa & Phân bón",cao
+SVT,"Dệt may, Gỗ & Gia dụng",thấp
+SZC,Bất động sản,cao
+SZL,Bất động sản,cao
+TBC,"Điện, nước & Tiện ích",cao
+TCB,Ngân hàng,cao
+TCD,Xây dựng & Hạ tầng,thấp
+TCH,Bất động sản,thấp
+TCI,Chứng khoán & Tài chính,cao
+TCL,Vận tải & Logistics,cao
+TCM,"Dệt may, Gỗ & Gia dụng",cao
+TCO,Vận tải & Logistics,cao
+TCR,Vật liệu xây dựng,cao
+TCT,Du lịch & Dịch vụ,thấp
+TDC,Bất động sản,cao
+TDG,Dầu khí & Khí đốt,cao
+TDH,Bất động sản,cao
+TDM,"Điện, nước & Tiện ích",cao
+TDP,Y tế & Dược,thấp
+TDW,"Điện, nước & Tiện ích",cao
+TEG,Bất động sản,cao
+TGG,Đa ngành & Khác,thấp
+THG,Xây dựng & Hạ tầng,cao
+TIP,Bất động sản,cao
+TIX,Bất động sản,cao
+TLD,Xây dựng & Hạ tầng,cao
+TLG,Công nghiệp chế tạo,thấp
+TLH,Thép & Khoáng sản,cao
+TMP,"Điện, nước & Tiện ích",cao
+TMS,Vận tải & Logistics,cao
+TMT,Bán lẻ & Phân phối,cao
+TN1,Đa ngành & Khác,thấp
+TNC,Nông nghiệp & Cao su,cao
+TNH,Y tế & Dược,cao
+TNI,Bất động sản,thấp
+TNT,Thép & Khoáng sản,cao
+TPB,Ngân hàng,cao
+TPC,"Hóa chất, Nhựa & Phân bón",thấp
+TRA,Y tế & Dược,cao
+TRC,Nông nghiệp & Cao su,cao
+TSC,Nông nghiệp & Cao su,cao
+TTA,"Điện, nước & Tiện ích",cao
+TTB,Đa ngành & Khác,thấp
+TTE,"Điện, nước & Tiện ích",cao
+TTF,"Dệt may, Gỗ & Gia dụng",cao
+TV2,Xây dựng & Hạ tầng,cao
+TVB,Chứng khoán & Tài chính,cao
+TVS,Chứng khoán & Tài chính,cao
+TVT,"Dệt may, Gỗ & Gia dụng",cao
+TYA,Công nghiệp chế tạo,cao
+UDC,Bất động sản,cao
+UIC,Bất động sản,cao
+VAF,"Hóa chất, Nhựa & Phân bón",cao
+VCA,Thép & Khoáng sản,cao
+VCB,Ngân hàng,cao
+VCF,Thực phẩm & Đồ uống,cao
+VCG,Xây dựng & Hạ tầng,cao
+VCI,Chứng khoán & Tài chính,cao
+VDP,Y tế & Dược,cao
+VDS,Chứng khoán & Tài chính,cao
+VFG,"Hóa chất, Nhựa & Phân bón",cao
+VGC,Vật liệu xây dựng,cao
+VHC,Thủy sản,cao
+VHM,Bất động sản,cao
+VIB,Ngân hàng,cao
+VIC,Bất động sản,cao
+VID,Đa ngành & Khác,thấp
+VIP,Vận tải & Logistics,cao
+VIX,Chứng khoán & Tài chính,cao
+VJC,Vận tải & Logistics,cao
+VMD,Y tế & Dược,cao
+VND,Chứng khoán & Tài chính,cao
+VNE,Xây dựng & Hạ tầng,cao
+VNG,Du lịch & Dịch vụ,cao
+VNL,Vận tải & Logistics,cao
+VNM,Thực phẩm & Đồ uống,cao
+VNS,Vận tải & Logistics,thấp
+VOS,Vận tải & Logistics,cao
+VPB,Ngân hàng,cao
+VPD,"Điện, nước & Tiện ích",cao
+VPG,Bán lẻ & Phân phối,thấp
+VPH,Bất động sản,cao
+VPI,Bất động sản,cao
+VPL,Du lịch & Dịch vụ,cao
+VPS,"Hóa chất, Nhựa & Phân bón",cao
+VRC,Bất động sản,cao
+VRE,Bất động sản,cao
+VSC,Vận tải & Logistics,cao
+VSH,"Điện, nước & Tiện ích",cao
+VSI,"Điện, nước & Tiện ích",cao
+VTB,Công nghệ & Viễn thông,cao
+VTO,Vận tải & Logistics,cao
+VTP,Vận tải & Logistics,cao
+YBM,Vật liệu xây dựng,cao
+YEG,Du lịch & Dịch vụ,thấp

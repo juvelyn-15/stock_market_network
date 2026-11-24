@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="qvalue" attr.type="double"/>
+<key id="d1" for="edge" attr.name="pvalue" attr.type="double"/>
+<key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="directed"><node id="AAA"/>
+<node id="AAM"/>
+<node id="ACB"/>
+<node id="ACL"/>
+<node id="ADS"/>
+<node id="AGM"/>
+<node id="AGR"/>
+<node id="ANV"/>
+<node id="APC"/>
+<node id="APG"/>
+<node id="ASM"/>
+<node id="ASP"/>
+<node id="AST"/>
+<node id="BBC"/>
+<node id="BCE"/>
+<node id="BCG"/>
+<node id="BFC"/>
+<node id="BIC"/>
+<node id="BID"/>
+<node id="BMC"/>
+<node id="BMI"/>
+<node id="BMP"/>
+<node id="BSI"/>
+<node id="BTP"/>
+<node id="BVH"/>
+<node id="BWE"/>
+<node id="C32"/>
+<node id="C47"/>
+<node id="CCL"/>
+<node id="CIG"/>
+<node id="CII"/>
+<node id="CMG"/>
+<node id="CMX"/>
+<node id="CNG"/>
+<node id="CSM"/>
+<node id="CSV"/>
+<node id="CTD"/>
+<node id="CTF"/>
+<node id="CTG"/>
+<node id="CTI"/>
+<node id="CTR"/>
+<node id="CTS"/>
+<node id="D2D"/>
+<node id="DAH"/>
+<node id="DBC"/>
+<node id="DBD"/>
+<node id="DCL"/>
+<node id="DCM"/>
+<node id="DGC"/>
+<node id="DGW"/>
+<node id="DHA"/>
+<node id="DHC"/>
+<node id="DHG"/>
+<node id="DHM"/>
+<node id="DIG"/>
+<node id="DLG"/>
+<node id="DPG"/>
+<node id="DPM"/>
+<node id="DPR"/>
+<node id="DQC"/>
+<node id="DRC"/>
+<node id="DRH"/>
+<node id="DSC"/>
+<node id="DSN"/>
+<node id="DVP"/>
+<node id="DXG"/>
+<node id="EIB"/>
+<node id="ELC"/>
+<node id="EVE"/>
+<node id="EVG"/>
+<node id="FCM"/>
+<node id="FCN"/>
+<node id="FIT"/>
+<node id="FMC"/>
+<node id="FPT"/>
+<node id="FTS"/>
+<node id="GAS"/>
+<node id="GDT"/>
+<node id="GEG"/>
+<node id="GEX"/>
+<node id="GIL"/>
+<node id="GMD"/>
+<node id="GSP"/>
+<node id="HAG"/>
+<node id="HAH"/>
+<node id="HAP"/>
+<node id="HAR"/>
+<node id="HAX"/>
+<node id="HCD"/>
+<node id="HCM"/>
+<node id="HDB"/>
+<node id="HDC"/>
+<node id="HDG"/>
+<node id="HHS"/>
+<node id="HID"/>
+<node id="HII"/>
+<node id="HMC"/>
+<node id="HPG"/>
+<node id="HQC"/>
+<node id="HSG"/>
+<node id="HT1"/>
+<node id="HTI"/>
+<node id="HTL"/>
+<node id="HVN"/>
+<node id="IDI"/>
+<node id="IJC"/>
+<node id="IMP"/>
+<node id="ITD"/>
+<node id="JVC"/>
+<node id="KBC"/>
+<node id="KDC"/>
+<node id="KDH"/>
+<node id="KMR"/>
+<node id="KOS"/>
+<node id="KPF"/>
+<node id="KSB"/>
+<node id="LBM"/>
+<node id="LCG"/>
+<node id="LDG"/>
+<node id="LGL"/>
+<node id="LHG"/>
+<node id="LIX"/>
+<node id="LSS"/>
+<node id="MBB"/>
+<node id="MCG"/>
+<node id="MHC"/>
+<node id="MIG"/>
+<node id="MSN"/>
+<node id="MWG"/>
+<node id="NAF"/>
+<node id="NBB"/>
+<node id="NCT"/>
+<node id="NHA"/>
+<node id="NHH"/>
+<node id="NKG"/>
+<node id="NLG"/>
+<node id="NNC"/>
+<node id="NSC"/>
+<node id="NT2"/>
+<node id="NTL"/>
+<node id="NVL"/>
+<node id="OGC"/>
+<node id="PAC"/>
+<node id="PAN"/>
+<node id="PC1"/>
+<node id="PDR"/>
+<node id="PET"/>
+<node id="PGC"/>
+<node id="PHC"/>
+<node id="PHR"/>
+<node id="PLP"/>
+<node id="PLX"/>
+<node id="PNJ"/>
+<node id="PPC"/>
+<node id="PTB"/>
+<node id="PTL"/>
+<node id="PVD"/>
+<node id="PVT"/>
+<node id="QBS"/>
+<node id="QCG"/>
+<node id="RAL"/>
+<node id="REE"/>
+<node id="SAB"/>
+<node id="SAM"/>
+<node id="SAV"/>
+<node id="SBT"/>
+<node id="SBV"/>
+<node id="SCR"/>
+<node id="SCS"/>
+<node id="SFI"/>
+<node id="SGN"/>
+<node id="SGT"/>
+<node id="SHI"/>
+<node id="SJD"/>
+<node id="SJS"/>
+<node id="SKG"/>
+<node id="SMC"/>
+<node id="SRF"/>
+<node id="SSI"/>
+<node id="STB"/>
+<node id="STG"/>
+<node id="STK"/>
+<node id="SZL"/>
+<node id="TCH"/>
+<node id="TCL"/>
+<node id="TCM"/>
+<node id="TCT"/>
+<node id="TDC"/>
+<node id="TDG"/>
+<node id="TDH"/>
+<node id="TDM"/>
+<node id="TEG"/>
+<node id="THG"/>
+<node id="TIP"/>
+<node id="TLD"/>
+<node id="TLG"/>
+<node id="TLH"/>
+<node id="TMT"/>
+<node id="TNI"/>
+<node id="TNT"/>
+<node id="TRA"/>
+<node id="TRC"/>
+<node id="TSC"/>
+<node id="TTB"/>
+<node id="TTF"/>
+<node id="TV2"/>
+<node id="TVB"/>
+<node id="TVS"/>
+<node id="UDC"/>
+<node id="VCB"/>
+<node id="VCF"/>
+<node id="VCG"/>
+<node id="VCI"/>
+<node id="VDS"/>
+<node id="VFG"/>
+<node id="VGC"/>
+<node id="VHC"/>
+<node id="VIB"/>
+<node id="VIC"/>
+<node id="VIP"/>
+<node id="VJC"/>
+<node id="VND"/>
+<node id="VNE"/>
+<node id="VNG"/>
+<node id="VNM"/>
+<node id="VNS"/>
+<node id="VOS"/>
+<node id="VPB"/>
+<node id="VPD"/>
+<node id="VPG"/>
+<node id="VPH"/>
+<node id="VPI"/>
+<node id="VRE"/>
+<node id="VSC"/>
+<node id="VSH"/>
+<node id="VTO"/>
+<edge source="AGM" target="HTL">
+  <data key="d0">21.92264964975516</data>
+  <data key="d1">3.674544051943745e-06</data>
+  <data key="d2">0.02911288758868573</data>
+</edge>
+<edge source="BID" target="SCS">
+  <data key="d0">22.89507953213902</data>
+  <data key="d1">2.2641480373978854e-06</data>
+  <data key="d2">0.020928275025681124</data>
+</edge>
+<edge source="BVH" target="SCS">
+  <data key="d0">23.55762934390405</data>
+  <data key="d1">1.62942661402745e-06</data>
+  <data key="d2">0.018073600002792473</data>
+</edge>
+<edge source="CMG" target="VCF">
+  <data key="d0">20.351929606831273</data>
+  <data key="d1">8.062813877826035e-06</data>
+  <data key="d2">0.044097411645840766</data>
+</edge>
+<edge source="CNG" target="VTO">
+  <data key="d0">21.067830076699117</data>
+  <data key="d1">5.63229646267203e-06</data>
+  <data key="d2">0.0347074624244212</data>
+</edge>
+<edge source="CTR" target="SZL">
+  <data key="d0">30.72364030429988</data>
+  <data key="d1">4.853992366164855e-08</data>
+  <data key="d2">0.0015240849309456983</data>
+</edge>
+<edge source="FTS" target="VRE">
+  <data key="d0">19.57261388476782</data>
+  <data key="d1">1.192851565595898e-05</data>
+  <data key="d2">0.044103698551965664</data>
+</edge>
+<edge source="GEX" target="AST">
+  <data key="d0">25.857114769261123</data>
+  <data key="d1">5.231830746739009e-07</data>
+  <data key="d2">0.009671911107138182</data>
+</edge>
+<edge source="GIL" target="BMP">
+  <data key="d0">24.036842048269744</data>
+  <data key="d1">1.2849969093820988e-06</data>
+  <data key="d2">0.0178164821485828</data>
+</edge>
+<edge source="GIL" target="HVN">
+  <data key="d0">30.467589352186057</data>
+  <data key="d1">5.496159145134145e-08</data>
+  <data key="d2">0.0015240849309456983</data>
+</edge>
+<edge source="HCM" target="SCS">
+  <data key="d0">19.9293147303008</data>
+  <data key="d1">9.969293188167719e-06</data>
+  <data key="d2">0.044097411645840766</data>
+</edge>
+<edge source="HTI" target="STB">
+  <data key="d0">19.24917912205538</data>
+  <data key="d1">1.4039091864502288e-05</data>
+  <data key="d2">0.04866300217533106</data>
+</edge>
+<edge source="PET" target="HII">
+  <data key="d0">21.576756052361702</data>
+  <data key="d1">4.3670260690631364e-06</data>
+  <data key="d2">0.03027440822378019</data>
+</edge>
+<edge source="PHR" target="HAH">
+  <data key="d0">19.709998138682895</data>
+  <data key="d1">1.1131694248859912e-05</data>
+  <data key="d2">0.044097411645840766</data>
+</edge>
+<edge source="SKG" target="LBM">
+  <data key="d0">19.784561794370244</data>
+  <data key="d1">1.0721917480207189e-05</data>
+  <data key="d2">0.044097411645840766</data>
+</edge>
+<edge source="VOS" target="TIP">
+  <data key="d0">20.05103270165843</data>
+  <data key="d1">9.377785708637622e-06</data>
+  <data key="d2">0.044097411645840766</data>
+</edge>
+</graph></graphml>

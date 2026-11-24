@@ -1,0 +1,38 @@
+{
+  "period": "P4",
+  "label": "2020-2021 COVID-19",
+  "data": {
+    "start": "2020-01-03",
+    "end": "2021-12-31",
+    "trading_days": 501,
+    "price_rows": 502,
+    "tickers_with_any_price": 314,
+    "tickers_after_coverage_filter": 297,
+    "tickers_dropped_illiquid": 18,
+    "tickers_final": 279,
+    "share_returns_winsorized": 0.0008584980576481446
+  },
+  "stationarity": {
+    "adf_share_stationary": 1.0,
+    "adf_max_pvalue": 2.5586711441994613e-05
+  },
+  "lag": 1,
+  "lag_selection_orders": {
+    "aic": 0,
+    "bic": 0,
+    "hqic": 0,
+    "fpe": 0
+  },
+  "dof_unrestricted": 497,
+  "alpha": 0.05,
+  "fdr_method": "fdr_bh",
+  "validation": {
+    "pairs_checked": 25,
+    "max_abs_p_diff": 5.098144129078719e-13,
+    "mean_abs_p_diff": 5.939224806406074e-14
+  },
+  "pi0_storey": 0.8724633196668472,
+  "expected_false_raw_edges": 3878.1000000000004,
+  "observed_raw_edges": 7324,
+  "observed_fdr_edges": 38
+}
