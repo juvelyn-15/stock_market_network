@@ -39,18 +39,7 @@ python run_pipeline.py --start 2022-01-01 --end 2023-12-31 --name P5 --lag 2
 Tham số: `--lag`, `--max-lag`, `--alpha`, `--min-coverage`, `--max-zero-share`, `--seed`, `--data`, `--output`.
 
 ## Quy trình
-
-1. Đọc giá, chuyển log-return `r_t = ln(P_t) − ln(P_{t−1})`.
-2. Mỗi giai đoạn chỉ giữ cổ phiếu có giá ≥ 95% số ngày và tỷ lệ ngày return = 0 không quá 30% (loại cổ phiếu kém thanh khoản). Return thiếu điền 0, cắt ở ±10%.
-3. Kiểm định ADF trên từng chuỗi return.
-4. Chọn lag chung bằng BIC của VAR trên mẫu ngẫu nhiên 30 mã (tối thiểu 1).
-5. Granger pairwise F-test cho mọi cặp (i → j): mô hình hạn chế `r_j ~ lags(r_j)`, mô hình đầy đủ thêm `lags(r_i)`.
-6. Hai quy tắc tạo cạnh:
-   - `raw05`: p < 0.05 (mạng chuẩn, như trong tài liệu).
-   - `fdr05`: Benjamini–Hochberg FDR 5% trên toàn bộ N(N−1) cặp (mạng lõi).
-7. Cạnh i → j nghĩa là i Granger-cause j. Out-degree: số mã mà i dẫn dắt. In-degree: số mã dẫn dắt i.
-8. Chỉ số node: in/out-degree (thô, chuẩn hóa), net degree, in/out strength (tổng F), betweenness, closeness in/out, PageRank, HITS hub/authority, clustering, cộng đồng Louvain, vai trò (leader/follower/mixed).
-9. Chỉ số toàn mạng: mật độ, reciprocity, clustering, transitivity, thành phần liên thông yếu/mạnh, đường đi trung bình và đường kính của SCC lớn nhất, assortativity, modularity, centralization.
+![Quy trình](D:\NEU\Semester7\hose_network\diagram_quy_trinh_granger_HOSE.png)
 
 ## Đầu ra
 
