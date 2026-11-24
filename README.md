@@ -39,7 +39,7 @@ python run_pipeline.py --start 2022-01-01 --end 2023-12-31 --name P5 --lag 2
 Tham số: `--lag`, `--max-lag`, `--alpha`, `--min-coverage`, `--max-zero-share`, `--seed`, `--data`, `--output`.
 
 ## Quy trình
-![Quy trình](D:\NEU\Semester7\hose_network\diagram_quy_trinh_granger_HOSE.png)
+![Quy trình](diagram_quy_trinh_granger_HOSE.png)
 
 ## Đầu ra
 
